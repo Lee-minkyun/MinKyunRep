@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kccistc\\Desktop\\KDJ\\git\\ConsolApp5\\StarCraft.csproj": {}
+    "C:\\Users\\f45ee\\Documents\\GitHub\\MinKyunRep\\ConsolApp5\\StarCraft.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kccistc\\Desktop\\KDJ\\git\\ConsolApp5\\StarCraft.csproj": {
+    "C:\\Users\\f45ee\\Documents\\GitHub\\MinKyunRep\\ConsolApp5\\StarCraft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kccistc\\Desktop\\KDJ\\git\\ConsolApp5\\StarCraft.csproj",
+        "projectUniqueName": "C:\\Users\\f45ee\\Documents\\GitHub\\MinKyunRep\\ConsolApp5\\StarCraft.csproj",
         "projectName": "StarCraft",
-        "projectPath": "C:\\Users\\kccistc\\Desktop\\KDJ\\git\\ConsolApp5\\StarCraft.csproj",
-        "packagesPath": "C:\\Users\\kccistc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kccistc\\Desktop\\KDJ\\git\\ConsolApp5\\obj\\",
+        "projectPath": "C:\\Users\\f45ee\\Documents\\GitHub\\MinKyunRep\\ConsolApp5\\StarCraft.csproj",
+        "packagesPath": "C:\\Users\\f45ee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\f45ee\\Documents\\GitHub\\MinKyunRep\\ConsolApp5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kccistc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\f45ee\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
