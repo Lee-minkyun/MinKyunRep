@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\f45ee\\Documents\\GitHub\\MinKyunRep\\ConsolApp5\\StarCraft.csproj": {}
+    "C:\\Users\\NEXT_ENERGY\\Desktop\\LEE SH\\C#\\git3\\ConsolApp5\\StarCraft.csproj": {}
   },
   "projects": {
-    "C:\\Users\\f45ee\\Documents\\GitHub\\MinKyunRep\\ConsolApp5\\StarCraft.csproj": {
+    "C:\\Users\\NEXT_ENERGY\\Desktop\\LEE SH\\C#\\git3\\ConsolApp5\\StarCraft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\f45ee\\Documents\\GitHub\\MinKyunRep\\ConsolApp5\\StarCraft.csproj",
+        "projectUniqueName": "C:\\Users\\NEXT_ENERGY\\Desktop\\LEE SH\\C#\\git3\\ConsolApp5\\StarCraft.csproj",
         "projectName": "StarCraft",
-        "projectPath": "C:\\Users\\f45ee\\Documents\\GitHub\\MinKyunRep\\ConsolApp5\\StarCraft.csproj",
-        "packagesPath": "C:\\Users\\f45ee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\f45ee\\Documents\\GitHub\\MinKyunRep\\ConsolApp5\\obj\\",
+        "projectPath": "C:\\Users\\NEXT_ENERGY\\Desktop\\LEE SH\\C#\\git3\\ConsolApp5\\StarCraft.csproj",
+        "packagesPath": "C:\\Users\\NEXT_ENERGY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NEXT_ENERGY\\Desktop\\LEE SH\\C#\\git3\\ConsolApp5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\f45ee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NEXT_ENERGY\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
