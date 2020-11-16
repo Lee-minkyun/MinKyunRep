@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\NEXT_ENERGY\\.nuget\\packages\\": {}
+    "C:\\Users\\학생\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NEXT_ENERGY\\Desktop\\LEE SH\\C#\\git3\\ConsolApp5\\StarCraft.csproj",
+      "projectUniqueName": "C:\\Users\\학생\\Documents\\GitHub\\MinKyunRep2\\ConsolApp5\\StarCraft.csproj",
       "projectName": "StarCraft",
-      "projectPath": "C:\\Users\\NEXT_ENERGY\\Desktop\\LEE SH\\C#\\git3\\ConsolApp5\\StarCraft.csproj",
-      "packagesPath": "C:\\Users\\NEXT_ENERGY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NEXT_ENERGY\\Desktop\\LEE SH\\C#\\git3\\ConsolApp5\\obj\\",
+      "projectPath": "C:\\Users\\학생\\Documents\\GitHub\\MinKyunRep2\\ConsolApp5\\StarCraft.csproj",
+      "packagesPath": "C:\\Users\\학생\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\학생\\Documents\\GitHub\\MinKyunRep2\\ConsolApp5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\NEXT_ENERGY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\학생\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
