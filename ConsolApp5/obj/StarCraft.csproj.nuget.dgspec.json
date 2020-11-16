@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\학생\\Desktop\\c#\\rep2\\ConsolApp5\\StarCraft.csproj": {}
+    "C:\\Users\\kccistc\\Desktop\\KDJ\\git\\ConsolApp5\\StarCraft.csproj": {}
   },
   "projects": {
-    "C:\\Users\\학생\\Desktop\\c#\\rep2\\ConsolApp5\\StarCraft.csproj": {
+    "C:\\Users\\kccistc\\Desktop\\KDJ\\git\\ConsolApp5\\StarCraft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\학생\\Desktop\\c#\\rep2\\ConsolApp5\\StarCraft.csproj",
+        "projectUniqueName": "C:\\Users\\kccistc\\Desktop\\KDJ\\git\\ConsolApp5\\StarCraft.csproj",
         "projectName": "StarCraft",
-        "projectPath": "C:\\Users\\학생\\Desktop\\c#\\rep2\\ConsolApp5\\StarCraft.csproj",
-        "packagesPath": "C:\\Users\\학생\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\학생\\Desktop\\c#\\rep2\\ConsolApp5\\obj\\",
+        "projectPath": "C:\\Users\\kccistc\\Desktop\\KDJ\\git\\ConsolApp5\\StarCraft.csproj",
+        "packagesPath": "C:\\Users\\kccistc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kccistc\\Desktop\\KDJ\\git\\ConsolApp5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\학생\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kccistc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
